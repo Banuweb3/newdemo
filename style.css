@@ -237,7 +237,7 @@ header.scrolled {
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-.nav {
+.header-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -257,7 +257,7 @@ header.scrolled {
 
 .nav-links {
     display: flex;
-    gap: 40px;
+    gap: 30px;
 }
 
 .nav-links a {
